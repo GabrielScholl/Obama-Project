@@ -14,4 +14,6 @@ It was nothing fancy, only a rough positioning of the main elements in the page,
 
 Spending enough time on determining the vision and detailing the project now is crutial to avoid having to make costly corrections during more advanced phases of the project. In the end, and before our next meeting, the design of the web page was looking a lot better. For the styling, I went with a color palette consisting of navy blue, white, red and some golden accents, to reference the american flag. Some key ideas for the design were to make it sober, serious and confidence inspiring.  
   
-![Image of the first rough sketch of the future web page, and its evolution to a more detailed design](https://i.imgur.com/mozQGp4.jpg)
+![Image of the first rough sketch of the future web page, and its evolution to a more detailed design, with pictures, fonts and colors](https://i.imgur.com/mozQGp4.jpg)
+
+Time taken until now: 1d
