@@ -1,0 +1,41 @@
+/* Global Adjustments */
+body {
+    background-color: #070724;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    margin: 0;
+}
+img {
+    color: white;
+}
+
+/* Navbar */
+#navbar {
+    border-bottom: 1px solid white;
+    background-color: #1F2347;
+    display: flex;
+    flex-direction: row;
+    height: 33px;
+    padding: 12px 0 0 0;
+}
+#navbar_navy_logo {
+    text-decoration: none;
+    margin: -4px 10px 10px 8px;
+}
+#navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 0 0 15px;
+}
+    .navbar_button {
+        display: inline-block;
+    }
+    .navbar_button a {
+        color: white;
+        padding: 10px 15px 14px 15px;
+        text-decoration: none;
+    }
+    .navbar_button a:hover {
+        background-color: rgba(0, 0, 0, 0.3);
+    }
