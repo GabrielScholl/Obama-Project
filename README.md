@@ -1,7 +1,7 @@
 # The Obama Project
 ⚠️ **_This is a work of fiction._** ⚠️
 
-During the time before a major election to determine the next president of the United States, a political party has called me and asked if I could develop a static web page to their presidential canditate, Mr. Obama. The page should contain a showcase of marketing material and a call to action at the end. I accepted the challenge and got to work.
+During the time before a major election to determine the next president of the United States, a political party has called me and asked if I could develop a static web page for their presidential canditate, Mr. Obama. The page should contain a showcase of marketing material and a call to action at the end. I accepted the challenge and got to work.
 
 ## The First Step
 The first step of the project was to determine exactly what the party's marketing team was looking for. So we sat down and discussed the main contents in detail, while I drew a first sketch of how the page should look like, keeping in mind the possibilities and limitations of HTML. Below we can see how it turned out.  
